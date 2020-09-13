@@ -4,6 +4,7 @@ opções semelhante ao mostrado abaixo:
 
 Calculadora: 1 - Adição 2 - Subtração 3 - Multiplicação 4 - Divisão 5 - Sair do programa
 Selecione sua opção:
+
 2. Crie uma função chamada Menu, que exiba o menu acima e retorna a opção do usuário para o
 programa principal. De acordo com a opção do usuário, chame uma das seguintes funções:
 adicao, subtracao, multiplicacao, divisao, passando como parâmetros dois números reais também
