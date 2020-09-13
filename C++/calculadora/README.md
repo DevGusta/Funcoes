@@ -1,6 +1,7 @@
 1. Faça um programa para uma calculadora com as seguintes operações (crie bibliotecas): adição,
 subtração, multiplicação e divisão. O programa começa apresentando ao usuário um menu de
 opções semelhante ao mostrado abaixo:
+
 Calculadora: 1 - Adição 2 - Subtração 3 - Multiplicação 4 - Divisão 5 - Sair do programa
 Selecione sua opção:
 2. Crie uma função chamada Menu, que exiba o menu acima e retorna a opção do usuário para o
